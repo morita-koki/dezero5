@@ -1,3 +1,2 @@
 # dezero5
-
-Describe your project here.
+ゼロからつくるDeepLearning５の勉強用リポジトリ
