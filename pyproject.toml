@@ -12,6 +12,7 @@ dependencies = [
     "torchvision>=0.18.1",
     "tqdm>=4.66.4",
     "torch>=2.3.1",
+    "pip>=24.1.1",
 ]
 readme = "README.md"
 requires-python = ">= 3.8"
